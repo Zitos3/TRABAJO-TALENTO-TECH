@@ -29,6 +29,14 @@ footer {
   padding: 5rem;
 }
 
+footer a:hover {
+  color: gray;
+}
+
+header a:hover {
+  color: gray;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -59,6 +67,7 @@ header .logo {
   padding: 2rem;
   font-family: "BBH Sans Bartle";
 }
+
 
 .bienvenida {
   text-align: center;
